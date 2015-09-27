@@ -1,0 +1,145 @@
+Dijkstra distance from 720 to 23 is :0.0337696
+Node visited : 394
+
+A* distance from 720 to 23 is :0.03376964593
+Node visited : 103
+
+
+Dijkstra distance from 419 to 36 is :0.05874051054
+Node visited : 605
+
+A* distance from 419 to 36 is :0.05874051054
+Node visited : 439
+
+
+Dijkstra distance from 62 to 759 is :0.0339746557
+Node visited : 291
+
+A* distance from 62 to 759 is :0.0339746557
+Node visited : 96
+
+
+Dijkstra distance from 40 to 122 is :0.08855143308
+Node visited : 952
+
+A* distance from 40 to 122 is :0.08855143308
+Node visited : 287
+
+
+Dijkstra distance from 646 to 998 is :0.1111432366
+Node visited : 963
+
+A* distance from 646 to 998 is :0.1111432366
+Node visited : 507
+
+
+Dijkstra distance from 717 to 825 is :0.02234475333
+Node visited : 53
+
+A* distance from 717 to 825 is :0.02234475333
+Node visited : 26
+
+
+Dijkstra distance from 853 to 285 is :0.06078456157
+Node visited : 851
+
+A* distance from 853 to 285 is :0.06078456157
+Node visited : 352
+
+
+Dijkstra distance from 507 to 784 is :0.07014412992
+Node visited : 598
+
+A* distance from 507 to 784 is :0.07014412992
+Node visited : 330
+
+
+Dijkstra distance from 773 to 86 is :0.06950806381
+Node visited : 406
+
+A* distance from 773 to 86 is :0.06950806381
+Node visited : 68
+
+
+Dijkstra distance from 29 to 176 is :0.08361215626
+Node visited : 838
+
+A* distance from 29 to 176 is :0.08361215626
+Node visited : 269
+
+
+Dijkstra distance from 554 to 838 is :0.03624963015
+Node visited : 461
+
+A* distance from 554 to 838 is :0.03624963015
+Node visited : 94
+
+
+Dijkstra distance from 160 to 90 is :0.07221769752
+Node visited : 636
+
+A* distance from 160 to 90 is :0.07221769752
+Node visited : 530
+
+
+Dijkstra distance from 228 to 581 is :0.1043159552
+Node visited : 304
+
+A* distance from 228 to 581 is :0.1043159552
+Node visited : 138
+
+
+Dijkstra distance from 953 to 727 is :0.01186901936
+Node visited : 66
+
+A* distance from 953 to 727 is :0.01186901936
+Node visited : 26
+
+
+Dijkstra distance from 796 to 765 is :0.01079686698
+Node visited : 85
+
+A* distance from 796 to 765 is :0.01079686698
+Node visited : 21
+
+
+Dijkstra distance from 431 to 184 is :0.06135953595
+Node visited : 868
+
+A* distance from 431 to 184 is :0.06135953595
+Node visited : 135
+
+
+Dijkstra distance from 778 to 41 is :0.02948263138
+Node visited : 270
+
+A* distance from 778 to 41 is :0.02948263138
+Node visited : 166
+
+
+Dijkstra distance from 419 to 528 is :0.01706619933
+Node visited : 233
+
+A* distance from 419 to 528 is :0.01706619933
+Node visited : 82
+
+
+Dijkstra distance from 910 to 312 is :0.01896700402
+Node visited : 130
+
+A* distance from 910 to 312 is :0.01896700402
+Node visited : 53
+
+
+Dijkstra distance from 454 to 910 is :0.1011719508
+Node visited : 900
+
+A* distance from 454 to 910 is :0.1011719508
+Node visited : 482
+
+
+Dijkstra average node visisted : 495
+
+A* average node visisted : 210
+
+Average saving : 285
